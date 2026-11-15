@@ -11,6 +11,7 @@ reports/*.log
 
 # Data files — too large for git; regenerate via pipeline
 data/raw/
-data/processed/
+data/processed/*
+!data/processed/parquet/
 data/warehouse/
 !data/.gitkeep
