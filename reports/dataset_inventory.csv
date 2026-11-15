@@ -1,0 +1,7 @@
+dataset,file,rows,columns,size_mb
+swap_events,swap_events.csv,3877013,22,728.73
+stations,stations.csv,152,22,0.02
+riders,riders.csv,20000,12,2.1
+fleet_partners,fleet_partners.csv,12,12,0.0
+support_tickets,support_tickets.csv,44000,12,6.54
+city_daily_context,city_daily_context.csv,3282,12,0.22

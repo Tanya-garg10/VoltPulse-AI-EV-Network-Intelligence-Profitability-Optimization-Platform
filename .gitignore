@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+reports/*.log
+*.duckdb
+*.duckdb.wal
+
+# Data files — too large for git; regenerate via pipeline
+data/raw/
+data/processed/
+data/warehouse/
+!data/.gitkeep
