@@ -16,8 +16,6 @@ into an executive decision-support system. Not a generic dashboard.
 ![python](https://img.shields.io/badge/python-3.11+-blue)
 ![data](https://img.shields.io/badge/events-3.88M-orange)
 
----
-
 ## Live demo
 
 Deployed on **Streamlit Community Cloud** — the processed Parquet warehouse
